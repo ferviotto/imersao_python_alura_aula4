@@ -1,1 +1,2 @@
-# imersao_python_alura_aula4
+Resolução da aula 4 de Imersão em Python da Alura (28/03/2024).
+Resolução do desafio da aula.
